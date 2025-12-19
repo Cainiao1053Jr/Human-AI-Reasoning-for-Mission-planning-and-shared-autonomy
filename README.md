@@ -8,6 +8,8 @@ To install, first download Carla Simulator 0.9.16 or later, https://carla.readth
 
 Then cover PythonAPI with the content here.  
 
+Add your OPENAI API key in ./examples/llmutil/llmutils.py
+
 Finally run manual_control.py  
 
 # How To Use  
@@ -17,4 +19,5 @@ When reach a starting point, press M to send query to LLM, then you can look at 
 After completion, press KP1, KP2, KP3 or K, Y, N to select route 1, 2 or 3  
 Press Z to preview LLM final path  
 Press X to preview A* with exclusive area search final path  
-Press C to actually move along LLM path
+Press C to actually move along LLM path  
+You can also change map settings, target location and avoided area locations at the start of codes.
