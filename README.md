@@ -2,6 +2,7 @@ This project uses some codes from https://github.com/Learning-and-Intelligent-Sy
 
 The main part of code is based on Carla's open source example code manual_control.py  
 
+#Installation
 To install, first download Carla Simulator 0.9.16 or later, https://carla.readthedocs.io/en/latest/start_quickstart/#download-and-extract-a-carla-package  
 
 Then cover PythonAPI with the content here.  
