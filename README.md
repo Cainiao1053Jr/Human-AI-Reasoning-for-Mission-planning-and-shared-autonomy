@@ -8,7 +8,7 @@ To install, first download Carla Simulator 0.9.16 or later, https://carla.readth
 
 Then cover PythonAPI with the content here.  
 
-Add your OPENAI API key in ./examples/llmutil/llmutils.py
+Add your OPENAI API key in ./examples/llmutil/llmutils.py (or uncomment getting environment key variable from OPENAI_KEY)
 
 Finally run manual_control.py  
 
