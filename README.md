@@ -15,6 +15,6 @@ Press W, A, S, D to move
 Press blackspace to change vehicle  
 When reach a starting point, press M to send query to LLM, then you can look at the terminal and wait for response to complete  
 After completion, press KP1, KP2, KP3 or K, Y, N to select route 1, 2 or 3  
-Press Z to preview LLM final path
-Press X to preview A* with exclusive area search final path
+Press Z to preview LLM final path  
+Press X to preview A* with exclusive area search final path  
 Press C to actually move along LLM path
